@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 
-for(int i=1; i<=10000; i++)
+for(int i=1; i<=1000; i++)
 {
    cout<<"Ami Banglay Gaan Gai"<<i <<endl;
 }
