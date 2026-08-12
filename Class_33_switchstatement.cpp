@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
 int digit ;
-cout<<"Enter any integer number";
+cout<<"Enter any digitn";
 cin>>digit;
 switch(digit)
 {
