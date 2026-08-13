@@ -2,13 +2,22 @@
 using namespace std;
 int main ()
 {
-int i = 1;
-while (i <=500)
+// int i = 1;
+// while (i <=500)
+// {
+//     cout<<i <<"Eastern University" <<endl;
+//     i++;
+// }
+// cout<< "End of the while loop";
+int i;
+cout<< "enter any number";
+cin>>i;
+do
 {
-    cout<<i <<"Eastern University" <<endl;
-    i++;
+ cout << "Hello World" <<i <<endl;
+ i--;   
 }
-cout<< "End of the while loop";
+while(i>=1);
 
 return 0;    
 }
